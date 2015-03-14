@@ -1,0 +1,1 @@
+Lecture notes and slides for a first course introducing Free/Open-Source Software.
